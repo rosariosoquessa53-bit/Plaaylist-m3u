@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="DW English" group-title="Notícias",DW English
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera English" group-title="Notícias",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV" group-title="Ciência",NASA TV
+https://ntv1-hls.s3.amazonaws.com/ntv1_720.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV Media" group-title="Ciência",NASA TV Media
+https://ntv2-hls.s3.amazonaws.com/ntv2_720.m3u8
